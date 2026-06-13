@@ -22,8 +22,6 @@
 -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zaGl3eHd2MTl5anZpcDV4dHhtZ2J3ZTI1MmdmdTN1ZmgzZnByMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ0bMQGgwk/giphy.gif" width="70%" alt="lane detection demo placeholder"/>
 
-*(Replace this with your own demo GIF — see tip above)*
-
 </div>
 
 ---
