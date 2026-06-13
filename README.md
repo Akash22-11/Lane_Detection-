@@ -19,15 +19,6 @@
 </div>
 
 ---
-
-## 🎥 Demo
-
-<div align="center">
-
-<!--
-  Replace the line below with a GIF of your own output.
-  Tip: convert output/sample_road_lanes.mp4 to a GIF with:
-  ffmpeg -i output/sample_road_lanes.mp4 -vf "fps=15,scale=480:-1" -loop 0 demo.gif
 -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zaGl3eHd2MTl5anZpcDV4dHhtZ2J3ZTI1MmdmdTN1ZmgzZnByMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ0bMQGgwk/giphy.gif" width="70%" alt="lane detection demo placeholder"/>
 
