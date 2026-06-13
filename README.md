@@ -1,25 +1,35 @@
-# Lane_Detection-
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Lane%20Line%20Detection&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Real-time%20Road%20Lane%20Detection%20for%20Autonomous%20Navigation&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,100:FF9EBB&height=200&section=header&text=Lane%20Line%20Detection&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Real-time%20Road%20Lane%20Detection%20for%20Autonomous%20Navigation&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/your-username/lane-detection">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2A5298&center=true&vCenter=true&width=600&lines=Detecting+lanes+in+real+time...;Canny+Edges+%E2%9E%9C+Hough+Transform+%E2%9E%9C+Lane+Fit;Built+for+Autonomous+Vehicle+Navigation+%F0%9F%9A%97" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Detecting+lanes+in+real+time...;Canny+Edges+%E2%9E%9C+Hough+Transform+%E2%9E%9C+Lane+Fit;Built+for+Autonomous+Vehicle+Navigation+%F0%9F%9A%97" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.8+-FFB6C1?style=for-the-badge&logo=python&logoColor=801336)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-FFC0CB?style=for-the-badge&logo=opencv&logoColor=801336)
+![NumPy](https://img.shields.io/badge/NumPy-1.24+-FFD1DC?style=for-the-badge&logo=numpy&logoColor=801336)
+![License](https://img.shields.io/badge/License-MIT-FF9EBB?style=for-the-badge&logoColor=801336)
+![Status](https://img.shields.io/badge/Status-Active-FF69B4?style=for-the-badge&logoColor=ffffff)
 
 </div>
 
 ---
+
+## 🎥 Demo
+
+<div align="center">
+
+<!--
+  Replace the line below with a GIF of your own output.
+  Tip: convert output/sample_road_lanes.mp4 to a GIF with:
+  ffmpeg -i output/sample_road_lanes.mp4 -vf "fps=15,scale=480:-1" -loop 0 demo.gif
+-->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zaGl3eHd2MTl5anZpcDV4dHhtZ2J3ZTI1MmdmdTN1ZmgzZnByMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ0bMQGgwk/giphy.gif" width="70%" alt="lane detection demo placeholder"/>
+
+*(Replace this with your own demo GIF — see tip above)*
 
 </div>
 
@@ -167,7 +177,7 @@ This project is licensed under the **MIT License**.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9EBB,100:FFD1DC&height=120&section=footer" width="100%"/>
 
 ⭐ **If this project helped you, consider giving it a star!** ⭐
 
