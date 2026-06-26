@@ -149,14 +149,6 @@ for frame in video_frames:
 - [ ] Kalman-filter based lane tracking
 - [ ] Sensor fusion with LiDAR/radar
 
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/your-username/lane-detection/issues).
-
----
 
 ## 📄 License
 
@@ -168,6 +160,25 @@ This project is licensed under the **MIT License**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9EBB,100:FFD1DC&height=120&section=footer" width="100%"/>
 
+## 👨‍💻 Developer
+
+<div align="center">
+
+<img src="https://github.com/Akash22-11.png" width="100" style="border-radius:50%;"/>
+
+### Akash
+
+**Engineering Student • Data Science Enthusiast • Builder**
+
+<img src="https://img.shields.io/badge/GitHub-Akash22--11-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0B1F"/>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<div align="center">
 ⭐ **If this project helped you, consider giving it a star!** ⭐
 
 </div>
